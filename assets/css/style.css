@@ -20,7 +20,6 @@ li {
     font-family: Arial, Helvetica, sans-serif;
     color: #777777;
     float: right;
-    text-align: center;
 }
 
 h1 {
@@ -30,4 +29,7 @@ h1 {
 }
 p {
     color: #777777;
+}
+html {
+    width: 960px;
 }

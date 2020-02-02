@@ -33,12 +33,15 @@ p {
     color: #777777;
 }
 
-h6 {
-    height: 40px;
+.foot {
+    height: 15px;
     color: #ffffff;
     background-color:#666666 ;
     border-top-style: solid;
     border-top-color: #4aaaa5;
     border-top-width: 8px;
     text-align: center;
+    font-size: 10px;
+    padding-top: 25px;
+    font-family: Arial, Helvetica, sans-serif;
 }

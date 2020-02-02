@@ -1,4 +1,4 @@
-h1 span{
+h1 span {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 22px;
     background-color: #4aaaa5;
@@ -13,13 +13,15 @@ header {
     border-bottom-color: #cccccc;
 }
 
-nav{
-}
-
-li {
+nav {
     font-family: Arial, Helvetica, sans-serif;
     color: #777777;
     float: right;
+    padding: 1%;
+}
+
+.bio {
+    padding
 }
 
 h1 {
@@ -27,9 +29,18 @@ h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 22px;
 }
+
 p {
     color: #777777;
 }
-html {
-    width: 960px;
+
+h6 {
+    height: 40px;
+    color: #ffffff;
+    background-color:#666666 ;
+    border-top-style: solid;
+    border-top-color: #4aaaa5;
+    border-top-width: 8px;
+    text-align: center;
+
 }

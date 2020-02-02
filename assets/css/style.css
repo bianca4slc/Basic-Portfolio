@@ -20,10 +20,9 @@ nav {
     padding: 1%;
 }
 
-.bio {
-    padding
+section {
+    background:url(assets/images/gravel/gravel.png) ;
 }
-
 h1 {
     color: #4aaaa5;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -42,5 +41,4 @@ h6 {
     border-top-color: #4aaaa5;
     border-top-width: 8px;
     text-align: center;
-
 }

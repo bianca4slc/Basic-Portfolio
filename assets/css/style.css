@@ -1,3 +1,13 @@
+body {
+    background: url(gravel.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    width: 960px;
+    margin: auto;
+}
+
 h1 span {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 22px;
@@ -20,9 +30,6 @@ nav {
     padding: 1%;
 }
 
-section {
-    background:url(assets/images/gravel/gravel.png) ;
-}
 h1 {
     color: #4aaaa5;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -31,6 +38,7 @@ h1 {
 
 p {
     color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .foot {

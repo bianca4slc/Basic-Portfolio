@@ -1,6 +1,7 @@
 * {
     margin: 0;
 }
+
 body {
     background: url(../images/gravel/gravel.png);
     background-position: center;
@@ -15,6 +16,8 @@ body {
     width: 100%;
     max-width: 960px;
     margin: 0 auto;
+    border-color: #dddddd;
+    padding: 2%;
 }
 
 .name {
@@ -22,7 +25,7 @@ body {
     font-size: 22px;
     background-color: #4aaaa5;
     color: #ffffff;
-    padding: 1%;
+    padding: 2%;
     height: 20px;
     float: left;
     width:20%;
@@ -51,6 +54,7 @@ nav a {
     text-decoration: none;
     color: #666666;
 }
+
 h1 {
     color: #4aaaa5;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -68,6 +72,12 @@ img {
 p {
     color: #777777;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+form {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+    padding: 2%;
 }
 
 .foot {

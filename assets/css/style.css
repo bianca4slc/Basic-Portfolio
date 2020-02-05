@@ -17,7 +17,7 @@ body {
     max-width: 960px;
     margin: 0 auto;
     border-color: #dddddd;
-    padding: 2%;
+    padding: 0;
 }
 
 .name {
@@ -33,6 +33,7 @@ body {
 
 section {
     background-color: #ffffff;
+    padding: 15px;
     overflow: auto;
 }    
 
@@ -53,9 +54,15 @@ nav {
 nav a {
     text-decoration: none;
     color: #666666;
+    display: inline-block;
+    padding: 3px;
 }
 
 h1 {
+    padding: 15px;
+    border-bottom: 2px;
+    border-bottom-color:#dddddd ;
+    border-bottom-style: solid;
     color: #4aaaa5;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 22px;
@@ -65,19 +72,19 @@ img {
     height: 200px;
     width: 230px;
     float: left;
-    padding-right: 2%;
-    padding-bottom: 2%;
+    padding: 2%;
 }
 
 p {
     color: #777777;
     font-family: Arial, Helvetica, sans-serif;
+    padding: 2%;
 }
 
 form {
     font-family: Arial, Helvetica, sans-serif;
     color: #777777;
-    padding: 2%;
+    padding: 1%;
 }
 
 .foot {
